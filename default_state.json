@@ -51,8 +51,6 @@
         "GCF_022354085_1",
         "GCF_020097475_1",
         "GCF_016904755_1",
-        "GCF_020283705_1",
-        "GCF_024733345_1",
         "GCF_902709585_1",
         "GCF_000008865_2",
         "GCF_000005845_2",
@@ -122,22 +120,8 @@
             "type": "bar",
             "color-start": "#FFFFFF"
         },
-        "GCF_020283705_1": {
-            "color": "#042d8c",
-            "height": "180",
-            "margin": "15",
-            "type": "bar",
-            "color-start": "#FFFFFF"
-        },
         "GCF_022354085_1": {
             "color": "#cc064b",
-            "height": "180",
-            "margin": "15",
-            "type": "bar",
-            "color-start": "#FFFFFF"
-        },
-        "GCF_024733345_1": {
-            "color": "#042d8c",
             "height": "180",
             "margin": "15",
             "type": "bar",
@@ -286,29 +270,7 @@
                     "disabled": false
                 }
             },
-            "GCF_020283705_1": {
-                "normalization": "none",
-                "min": {
-                    "value": "0",
-                    "disabled": false
-                },
-                "max": {
-                    "value": "1",
-                    "disabled": false
-                }
-            },
             "GCF_022354085_1": {
-                "normalization": "none",
-                "min": {
-                    "value": "0",
-                    "disabled": false
-                },
-                "max": {
-                    "value": "1",
-                    "disabled": false
-                }
-            },
-            "GCF_024733345_1": {
                 "normalization": "none",
                 "min": {
                     "value": "0",
