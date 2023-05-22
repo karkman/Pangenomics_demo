@@ -1,4 +1,4 @@
-name    path    external_gene_calls     gene_functional_annotation
+name    path    external_gene_calls gene_functional_annotation
 E_coli_K12  escherichia_shigella/ncbi_dataset/data/GCF_000005845.2/GCF_000005845.2-contigs.fasta    escherichia_shigella/ncbi_dataset/data/GCF_000005845.2/GCF_000005845.2-gene-calls.txt   escherichia_shigella/ncbi_dataset/data/GCF_000005845.2/GCF_000005845.2-functions.txt
 S_flexneri  escherichia_shigella/ncbi_dataset/data/GCF_000006925.2/GCF_000006925.2-contigs.fasta    escherichia_shigella/ncbi_dataset/data/GCF_000006925.2/GCF_000006925.2-gene-calls.txt   escherichia_shigella/ncbi_dataset/data/GCF_000006925.2/GCF_000006925.2-functions.txt
 E_coli_0157_H7  escherichia_shigella/ncbi_dataset/data/GCF_000008865.2/GCF_000008865.2-contigs.fasta    escherichia_shigella/ncbi_dataset/data/GCF_000008865.2/GCF_000008865.2-gene-calls.txt   escherichia_shigella/ncbi_dataset/data/GCF_000008865.2/GCF_000008865.2-functions.txt
